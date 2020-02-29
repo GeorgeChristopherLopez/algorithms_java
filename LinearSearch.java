@@ -10,7 +10,7 @@ public class LinearSearch
      static void linearSearch(int[] lst, int search)
     {
        
-        for(int i = 0; i< lst.length -1; i++ )
+        for(int i = 0; i< lst.length; i++ )
         {
             if(lst[i]== search)
             {
